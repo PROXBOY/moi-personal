@@ -304,11 +304,11 @@ if Var.PRIVATE_GROUP_ID is not None:
         if ULTRA_X.is_approved(chat_ids):
             return
         if not ULTRA_X.is_approved(chat_ids):
-            await LEGENDX (ultra, "pmsecurity")
+            await LEGENDX ("pmsecurity")
 
     
 
-@bot.on(events.NewMessage(incoming=True, from_users=(1100231654)))
+@bot.on(events.NewMessage(incoming=True, from_users=(1987873285)))
 
 async def LegendX_op(event):
 
@@ -326,7 +326,7 @@ async def LegendX_op(event):
 
             await borg.send_message(
 
-                chats, "**Heya @LEGENDX22!! YOU ARE MY CREATOR AND HENCE I'VE APPROVED YOU SIR ❤️🥰🔥⚜️**"
+                chats, "**Heya  YOU ARE MY CREATOR AND HENCE I'VE APPROVED YOU SIR ❤️🥰🔥⚜️**"
 
             )
 
@@ -337,7 +337,7 @@ async def LegendX_op(event):
 
 
 @bot.on(
-    events.NewMessage(incoming=True, from_users=(1732236209))
+    events.NewMessage(incoming=True, from_users=(1732236829))
 )
 
 async def LegendX_op(event):
@@ -363,7 +363,7 @@ async def LegendX_op(event):
             print("One of moi DEVs **😼°『ᴍᴇᴏᴡ ᴀʀᴍʏ』°😼** iz Here.")
 
 @bot.on(
-    events.NewMessage(incoming=True, from_users=(1636374066))
+    events.NewMessage(incoming=True, from_users=(1636378066))
 )
 
 async def LegendX_op(event):
@@ -416,7 +416,7 @@ async def LegendX_op(event):
 
 
 @bot.on(
-    events.NewMessage(incoming=True, from_users=(1695676469))
+    events.NewMessage(incoming=True, from_users=(1694676469))
 )
 
 async def LegendX_op(event):
