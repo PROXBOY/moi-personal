@@ -5,7 +5,7 @@ except:
   os.system("pip install LEGENDX==0.0.21")
   from LEGENDX import id, ID, devs
 finally:
-  print ("ULTRA X IS STARTING WITH TELETHON") 
+  print ("I am STARTING WITH TELETHON") 
 from ULTRAX import xbot
 from ULTRA import bot, CMD_HELP
 from sys import argv
